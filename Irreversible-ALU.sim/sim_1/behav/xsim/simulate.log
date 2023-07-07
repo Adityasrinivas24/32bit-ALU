@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Single bit shift result: 0000a5a5
+Boolean operation result: 0000a5a5
+Arithmetic operation result: 00002468
+Comparator operation result: 00005555
+$finish called at time : 40 ns : File "C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sim_1/new/alu32_tb.v" Line 52

@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sim_1/new/alu32_tb.v,1688692305,verilog,,,,alu32_tb,,,,,,,,
+C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/alu32.v,1688691556,verilog,,C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/arithmetic_block.v,,alu32,,,,,,,,
+C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/arithmetic_block.v,1688691196,verilog,,C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/boolean_block.v,,arithmetic_block,,,,,,,,
+C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/boolean_block.v,1688691224,verilog,,C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/comparator_block.v,,boolean_block,,,,,,,,
+C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/comparator_block.v,1688691214,verilog,,C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/shifter_block.v,,comparator_block,,,,,,,,
+C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sources_1/new/shifter_block.v,1688691204,verilog,,C:/Users/asrin/Desktop/Irreversible-32bit-ALU/Irreversible-ALU/Irreversible-ALU.srcs/sim_1/new/alu32_tb.v,,shifter_block,,,,,,,,
