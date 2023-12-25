@@ -1,3 +1,3 @@
 # 32bit-ALU
 
-irreversible Implementation of a 32-bit ALU
+32-bit ALU Implementation 
